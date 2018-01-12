@@ -27,10 +27,6 @@ The neccesary objects will be added to your hierachy.
 
 When playing in Edtior, press Alt + Insert to open/close the Trello4Unity interface.
 
-Any questions, please email kyleshepherddev@gmail.com!
-
-Please leave feedback/suggestions on the Unity Asset Store page!
-
 Enjoy!
 
 NOTE: IF YOU ARE USING REWIRED, YOU MUST USE THE REWIRED EVENT SYSTEM AND SET THE HORIZONTAL, VERTICAL, SUBMIT AND CANCEL INPUTS YOURSELF
